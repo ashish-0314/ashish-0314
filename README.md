@@ -16,12 +16,11 @@
   <a href="https://wa.me/91YOUR_PHONE_NUMBER_HERE">
     <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <br><br>
   <a href="#insert-link-to-resume-pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
-  <a href="#insert-link-to-cv-pdf">
-    <img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" />
+  <a href="#insert-link-to-portfolio-page">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -72,47 +71,29 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <!-- Custom Traffic Logo Badge -->
-      <img src="https://img.shields.io/badge/-Traffic_Management-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Traffic icon" />
-      <br>
+    <td align="center" width="25%">
       <a href="https://traffic-management-client.onrender.com/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-0314&repo=Traffic-Management&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" alt="Traffic Management" />
+        <h1>🚦</h1>
+        <b>Traffic Management</b>
       </a>
-      <br>
-      <a href="https://traffic-management-client.onrender.com/"><img src="https://img.shields.io/badge/Live_Deployment-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
-    <td align="center" width="50%">
-      <!-- Custom Eco/Recycle Logo Badge -->
-      <img src="https://img.shields.io/badge/-Recycle_Guide-000000?style=flat-square&logo=greensock&logoColor=white" alt="Recycle icon" />
-      <br>
+    <td align="center" width="25%">
       <a href="https://github.com/ashish-0314/Recycle-Guide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-0314&repo=Recycle-Guide&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" alt="Recycle Guide" />
+        <h1>♻️</h1>
+        <b>Recycle Guide</b>
       </a>
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Deployment-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <!-- Custom Map/Route Logo Badge -->
-      <img src="https://img.shields.io/badge/-Route_Optima-000000?style=flat-square&logo=waze&logoColor=white" alt="Route icon" />
-      <br>
+    <td align="center" width="25%">
       <a href="https://github.com/ashish-0314/Route-Optima">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-0314&repo=Route-Optima&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" alt="Route Optima" />
+        <h1>🗺️</h1>
+        <b>Route Optima</b>
       </a>
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Deployment-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
-    <td align="center" width="50%">
-      <!-- Custom Food/Dine Logo Badge -->
-      <img src="https://img.shields.io/badge/-DineEase-000000?style=flat-square&logo=swiggy&logoColor=white" alt="Food icon" />
-      <br>
+    <td align="center" width="25%">
       <a href="https://github.com/ashish-0314/DineEase">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-0314&repo=DineEase&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" alt="DineEase" />
+        <h1>🍴</h1>
+        <b>DineEase</b>
       </a>
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Deployment-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
@@ -122,29 +103,35 @@
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fmetrics%2Fgithub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Metrics" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-0314&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  <!-- Dynamic GitHub Streak Stats (Shows Total Contributions) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-0314&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=0D1117" alt="GitHub Streak" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Advanced Stats (Rank Hidden) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-0314&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" width="48%" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-0314&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
+
+
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fmetrics%2Fprogramming-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Programming" />
 
 <div align="center">
   <a href="https://leetcode.com/u/Ashish1403/">
-    <img src="https://leetcard.jacoblin.cool/Ashish1403?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" height="150" style="margin-right: 5px; margin-bottom: 10px;" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/ashishb9ue">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ashishb9ue&theme=dark" alt="GeeksforGeeks Stats" height="150" style="margin-left: 5px; margin-bottom: 10px;" />
+    <!-- Removed manual height so the elegant heatmap scales naturally -->
+    <img src="https://leetcard.jacoblin.cool/Ashish1403?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" style="margin-bottom: 20px;" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://leetcode.com/u/Ashish1403/">
     <img src="https://img.shields.io/badge/LeetCode-Ashish1403-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/ashishb9ue">
-    <img src="https://img.shields.io/badge/GFG-ashishb9ue-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/fc5efdfb-cbe8-43b0-9bdc-81730c951722">
     <img src="https://img.shields.io/badge/Coding_Ninjas-Profile_Link-000000?style=for-the-badge&logo=coding-ninjas&logoColor=F06529" alt="Coding Ninjas"/>
