@@ -9,12 +9,11 @@
 <br>
 
 <div align="center">
-  <!-- Connect & Download Section -->
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ashish78337@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/91YOUR_PHONE_NUMBER_HERE">
-    <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/919835209367">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="#insert-link-to-resume-pdf">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
@@ -26,23 +25,20 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fuser%2Fabout-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="About" />
+### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fuser%2Fabout-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="About" />
 
-```diff
-@@ bash :: ashish@dev-env ~ @@
-+ ashish@dev-env:~$ cat profile.json
-  {
-    "name": "Ashish",
-    "role": "Full-Stack Developer",
-    "passions": [
-      "Architecting robust and scalable web applications",
-      "Solving complex algorithmic challenges",
-      "Optimizing system performance"
-    ],
-    "current_focus": "Advanced Data Structures & Modern Web Architecture"
-  }
-+ ashish@dev-env:~$ ./run_metrics.sh
-```
+<div align="left">
+  <h3><code>ashish@dev-env:~$ cat profile.json</code></h3>
+  <h3><code>{</code></h3>
+  <h3>&nbsp;&nbsp;<code>"name"     :</code> <b>"Ashish"</b>,</h3>
+  <h3>&nbsp;&nbsp;<code>"role"     :</code> <b>"Full-Stack Developer"</b>,</h3>
+  <h3>&nbsp;&nbsp;<code>"focus"    :</code> <b>"Advanced Data Structures & Modern Web Architecture"</b>,</h3>
+  <h3>&nbsp;&nbsp;<code>"passions" :</code> <b>[</b></h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;<b>"Architecting robust applications"</b>,</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;<b>"Solving complex algorithmic challenges"</b></h3>
+  <h3>&nbsp;&nbsp;<b>]</b></h3>
+  <h3><code>}</code></h3>
+</div>
 
 <br>
 
@@ -72,28 +68,20 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://traffic-management-client.onrender.com/">
-        <h1>🚦</h1>
-        <b>Traffic Management</b>
-      </a>
+      <h2><a href="https://traffic-management-client.onrender.com/" style="text-decoration: none;">🚦</a></h2>
+      <b><a href="https://traffic-management-client.onrender.com/">Traffic Management</a></b>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/ashish-0314/Recycle-Guide">
-        <h1>♻️</h1>
-        <b>Recycle Guide</b>
-      </a>
+      <h2><a href="https://github.com/ashish-0314/Recycle-Guide" style="text-decoration: none;">♻️</a></h2>
+      <b><a href="https://github.com/ashish-0314/Recycle-Guide">Recycle Guide</a></b>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/ashish-0314/Route-Optima">
-        <h1>🗺️</h1>
-        <b>Route Optima</b>
-      </a>
+      <h2><a href="https://github.com/ashish-0314/Route-Optima" style="text-decoration: none;">🗺️</a></h2>
+      <b><a href="https://github.com/ashish-0314/Route-Optima">Route Optima</a></b>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/ashish-0314/DineEase">
-        <h1>🍴</h1>
-        <b>DineEase</b>
-      </a>
+      <h2><a href="https://github.com/ashish-0314/DineEase" style="text-decoration: none;">🍴</a></h2>
+      <b><a href="https://github.com/ashish-0314/DineEase">DineEase</a></b>
     </td>
   </tr>
 </table>
@@ -132,6 +120,9 @@
 <div align="center">
   <a href="https://leetcode.com/u/Ashish1403/">
     <img src="https://img.shields.io/badge/LeetCode-Ashish1403-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/ashishb9ue">
+    <img src="https://img.shields.io/badge/GFG-ashishb9ue-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/fc5efdfb-cbe8-43b0-9bdc-81730c951722">
     <img src="https://img.shields.io/badge/Coding_Ninjas-Profile_Link-000000?style=for-the-badge&logo=coding-ninjas&logoColor=F06529" alt="Coding Ninjas"/>
