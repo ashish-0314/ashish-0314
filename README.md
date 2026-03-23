@@ -27,17 +27,24 @@
 
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fuser%2Fabout-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="About" />
 
-<div align="left">
-  <h3><code>ashish@dev-env:~$ cat profile.json</code></h3>
-  <h3><code>{</code></h3>
-  <h3>&nbsp;&nbsp;<code>"name"     :</code> <b>"Ashish"</b>,</h3>
-  <h3>&nbsp;&nbsp;<code>"role"     :</code> <b>"Full-Stack Developer"</b>,</h3>
-  <h3>&nbsp;&nbsp;<code>"focus"    :</code> <b>"Advanced Data Structures & Modern Web Architecture"</b>,</h3>
-  <h3>&nbsp;&nbsp;<code>"passions" :</code> <b>[</b></h3>
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;<b>"Architecting robust applications"</b>,</h3>
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;<b>"Solving complex algorithmic challenges"</b></h3>
-  <h3>&nbsp;&nbsp;<b>]</b></h3>
-  <h3><code>}</code></h3>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td valign="top" style="padding: 20px;">
+        <h2 style="margin-top: 5px;">👋 Hi, I'm Ashish!</h2>
+        <p>I am a passionate <b>Full-Stack Developer</b> who thrives on crafting elegant solutions to complex algorithmic problems and building robust digital experiences.</p>
+        <br>
+        <ul>
+          <li>🎯 <b>Current Focus:</b> Advanced Data Structures & Modern Web Architecture</li>
+          <li>🚀 <b>Passions:</b><ul>
+            <li>Architecting robust and scalable web applications</li>
+            <li>Solving complex algorithmic challenges</li>
+            <li>Optimizing system performance and creating efficient backend systems</li>
+          </ul></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
