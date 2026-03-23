@@ -111,7 +111,7 @@
 
 <div align="center">
   <!-- Advanced Stats (Rank Hidden) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-0314&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-0314&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" width="48%" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-0314&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
