@@ -103,17 +103,17 @@
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fmetrics%2Fgithub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Metrics" />
 
 <div align="center">
-  <!-- Dynamic GitHub Streak Stats (Shows Total Contributions) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-0314&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=0D1117" alt="GitHub Streak" width="100%" />
+  <!-- Dynamic Activity Line Graph (Hides low raw numbers, shows cool activity spikes) -->
+  <a href="https://github.com/ashish-0314">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-0314&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Advanced Stats (Rank Hidden) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-0314&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" width="48%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-0314&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <!-- Top Languages (Always looks full and impressive) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-0314&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="65%" />
 </div>
 
 <br>
